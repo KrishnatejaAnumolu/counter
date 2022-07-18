@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Counter",
+    "icon": "icon.png",
+    "description": "Just counts",
+    "android": {
+      "package": "com.krishnateja.counter"
+    }
+  }
+}
